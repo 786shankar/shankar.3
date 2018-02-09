@@ -4,6 +4,7 @@ int main(void)
 {
 	char s[100];
 	int i,l,sum=0,count1;
+	printf("enter the string");
 	scanf("%s",s);
 	l=strlen(s);
 	for(i=0;i<l;i++)
