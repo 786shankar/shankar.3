@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    int a[100],i,j,k,o;
+    int a[10000],i,j,k,o;
     printf("enter the size of array\n");
     scanf("%d",&o);
     printf("enter the values of array\n");
